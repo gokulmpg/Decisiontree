@@ -1,7 +1,17 @@
 "# gokulmpg" 
-Decision tree - CART, Boosting, Bagging, Random forest
+### Decision tree 
+- A white box type of ML algorithm
+- A non-parametric supervised learning algorithm
+- Utilized for both classification and regression tasks.
+   *CART, 
+   *Boosting, 
+   *Bagging, 
+   *Random forest
+   
 K fold Cross validation & Partitioning
+
 Confusion matrix
+
 etc..
 
 
